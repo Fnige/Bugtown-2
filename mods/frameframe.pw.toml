@@ -1,0 +1,13 @@
+name = "FrameFrame"
+filename = "FrameFrame-1.21.1-1.0a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4mU58o2D/versions/bhprvmej/FrameFrame-1.21.1-1.0a.jar"
+hash-format = "sha512"
+hash = "45aae126d1b6f4d0f9b7b7d026a809d5848a532b074eb6b991c62c4cfb593a74793a021a37202528e2ddf77c36894be5915efa13eb66d55aa44d35eb28807fca"
+
+[update]
+[update.modrinth]
+mod-id = "4mU58o2D"
+version = "bhprvmej"

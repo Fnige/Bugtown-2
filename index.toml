@@ -376,6 +376,11 @@ hash = "9a4208ccd7c3b192fcf70dc10d61ed4854f7dd169ab093fc18d9b51af0b91aeb"
 metafile = true
 
 [[files]]
+file = "mods/frameframe.pw.toml"
+hash = "3ed879740bf8cea1657391dc1d9c18033c54f5001a18808f1eea2a8c31c17e50"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/simulatedhoses-0.1.0-alpha.jar"
 hash = "6b46ef0f06e978541f80df8a791f7f5e55c16c252686174483bcbad8929e9da9"
+
+[[files]]
+file = "mods/slag-n-embers.pw.toml"
+hash = "80662b9259fdaaa228b640d22c7b6ab402cbb3730a19b667d99330e00d296963"
+metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
