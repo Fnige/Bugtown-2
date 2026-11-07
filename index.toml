@@ -71,6 +71,11 @@ hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
 
 [[files]]
+file = "mods/brick-and-mortar.pw.toml"
+hash = "52312c25493f086845ea281040461c24f677fc8f1b89dfb3c34bc2b938c0101e"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "594cf4ca23d3eca84b27092e170737cd6a51a99a3a83c864f68512b02e487efb"
 metafile = true
