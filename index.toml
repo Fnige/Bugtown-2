@@ -376,11 +376,6 @@ hash = "9a4208ccd7c3b192fcf70dc10d61ed4854f7dd169ab093fc18d9b51af0b91aeb"
 metafile = true
 
 [[files]]
-file = "mods/frameframe.pw.toml"
-hash = "3ed879740bf8cea1657391dc1d9c18033c54f5001a18808f1eea2a8c31c17e50"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
