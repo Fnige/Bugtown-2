@@ -1,0 +1,13 @@
+name = "Ignition"
+filename = "Ignition-1.21.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2gTtjEHB/versions/qbuecVLs/Ignition-1.21.1-6.0.1.jar"
+hash-format = "sha512"
+hash = "f9d4c56108cb15ac4a3b52895e2578dfd991ac9e96fa3dd8253ce8bd6ea5c96177b055bf4ba887c544f8acc085d031aa9045dd275ac721e15e2e9a489574fea0"
+
+[update]
+[update.modrinth]
+mod-id = "2gTtjEHB"
+version = "qbuecVLs"

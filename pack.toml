@@ -1,0 +1,13 @@
+name = "Bugtown 2"
+author = "Many goobers"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d98a0e98561cbd3d7def713cda87ba6121262e19b18f9a4e45a478143a776a9a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
