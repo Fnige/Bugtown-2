@@ -101,6 +101,11 @@ hash = "2ab3ebde1460819870da280e8ef619a70cc975b441ff43afbd282d43e84f2ea1"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/coordboard.pw.toml"
 hash = "029edd5d6db45c4079b13af4700afe28d8dd3ef0b9b4192a596038a1adb4e702"
 metafile = true
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-lift-n-load.pw.toml"
-hash = "77fe9aeb9f970359adfbe2b929ffc65b595dd5dbe48bc164c04601bbd19322fa"
+hash = "f3349c7034d872a1fbf02dbcb6d8c0f343e45e5647b7c3d4f2eda2a58edf968c"
 metafile = true
 
 [[files]]
@@ -391,6 +396,16 @@ hash = "5a8e9b65f1b5d1493432969dffaa3c72fdd5c2f382bbb49a959291f873ea9484"
 metafile = true
 
 [[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "a3a79f7491ab7ee86eb740165bdde635abd7a4585b7bd45b8090a76250a8a9e5"
+metafile = true
+
+[[files]]
+file = "mods/keybindspurger.pw.toml"
+hash = "deb411274d906a168676c9d5e382171a7d285ebd65471fd4bf7a768171f6a2e0"
+metafile = true
+
+[[files]]
 file = "mods/knight-lib.pw.toml"
 hash = "0d575a23218100cd338dbb0fd673fe176d2c33279c7f2edb96d4ac7c1fb8890d"
 metafile = true
@@ -523,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
