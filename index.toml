@@ -406,10 +406,6 @@ hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
-file = "mods/ignition-1.0-SNAPSHOT.jar"
-hash = "e9dc0e265753461f2e757784cf1927bf1499b2d5544c0ab39bcd429d5f37d849"
-
-[[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
 metafile = true
