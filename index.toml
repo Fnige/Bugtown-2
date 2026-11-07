@@ -91,6 +91,16 @@ hash = "93a002c2f055830959e1e24323b2afe17fcf1ced6981eedbfb8e1a787cdd31bf"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "c7f9286eabbfd298a73a92dc91031a27a8551a7cda8656f2173a4ba8cc0ac1a2"
+metafile = true
+
+[[files]]
 file = "mods/contraption-lights-compat.pw.toml"
 hash = "7df1a9480e1fd45205584151c0527cfa98f3bf3d482b8afd86e5c54e638d4832"
 metafile = true
@@ -251,6 +261,11 @@ hash = "0e4942ab12e496d3649dc35f1734c20c9fb46e235265f7076a2465eb1b139473"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
+metafile = true
+
+[[files]]
 file = "mods/drive-by-sable.pw.toml"
 hash = "0c1c5cfd9c21bd85fc2b0bb17c2bc607c88c0641da3ade9cc98140263f361dee"
 metafile = true
@@ -396,11 +411,6 @@ hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
-file = "mods/ignition.pw.toml"
-hash = "d7bb69cad04f9af44e713912e2d9e00255640fce40db8dfc8646c065b229cc3f"
-metafile = true
-
-[[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
 metafile = true
@@ -408,6 +418,21 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
@@ -536,6 +561,11 @@ hash = "4bbc56f6983715ff095638eafab7ca8fee16f602656058b8456e3e8e7f2df918"
 metafile = true
 
 [[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "8fe741853924944b4bb7e8cf18822d39922a9bc85e1208cddfba509e1344a0a4"
+metafile = true
+
+[[files]]
 file = "mods/reliable-backpacks.pw.toml"
 hash = "aa1f11c5c82e46adec78ef656dae8edb9aab6c18bb761697d9e89ca0f66f4889"
 metafile = true
@@ -633,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "8197c6c0e390369d3e5374692dfa8d2ced62d033538df534ab9d6d08ab5eb82c"
+metafile = true
+
+[[files]]
+file = "mods/veil-bonk.pw.toml"
+hash = "3ca3acc3ab48292b58eadc3b3cc046f6c58f50380ce55c64ec8f34116338d13f"
 metafile = true
 
 [[files]]
