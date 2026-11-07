@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
+hash = "6d37de7b436e094a7834d51b5d9d803653ab445e1041853f32a61599b054c7bf"
 metafile = true
 
 [[files]]
@@ -404,6 +404,10 @@ metafile = true
 file = "mods/hypertube.pw.toml"
 hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
+
+[[files]]
+file = "mods/ignition-0.1-BETA.jar"
+hash = "3c10117f3813f5055ba4a28dbe13ca99d466a44924833a38d774d54da12cebde"
 
 [[files]]
 file = "mods/industrially-plated.pw.toml"
@@ -709,3 +713,7 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "562e922f8f5bf45691a6ebb51f1ab85542a295cad90153013c9339b23b347435"
