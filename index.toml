@@ -626,6 +626,10 @@ hash = "d51634fccfc5064d7f60f8863ba9b83c489d8e62e68f5d431f7c9fa7434a4c98"
 metafile = true
 
 [[files]]
+file = "mods/simulatedhoses-0.1.0-alpha.jar"
+hash = "6b46ef0f06e978541f80df8a791f7f5e55c16c252686174483bcbad8929e9da9"
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
