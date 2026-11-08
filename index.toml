@@ -66,6 +66,11 @@ hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
 metafile = true
@@ -78,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "594cf4ca23d3eca84b27092e170737cd6a51a99a3a83c864f68512b02e487efb"
+metafile = true
+
+[[files]]
+file = "mods/civillis-technology-compatibility.pw.toml"
+hash = "8036a00c6626e54bf69ab9a2e8c6f2a4ad9323bd0a679983b41318ab042a53d7"
+metafile = true
+
+[[files]]
+file = "mods/civillis.pw.toml"
+hash = "230cc3414c64bc6da098bc861d9b5c4747700a9065d7cb514284a0b766424c0b"
 metafile = true
 
 [[files]]
@@ -411,6 +426,11 @@ hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "70ad4b137babadccbdbfe5c2d64e56c56aece891a4074aa745d4f9227b099663"
+metafile = true
+
+[[files]]
 file = "mods/industrially-plated.pw.toml"
 hash = "8f1622d82d6e14bf9086b39e68d4f6a6c1ec7e38ac8a1783e0a81bbb7c91de29"
 metafile = true
@@ -428,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "750f4b552490779af147a9c70a558ab2aa1cbfd8331d5ad69efefa099854dfae"
 metafile = true
 
 [[files]]
@@ -571,6 +596,11 @@ hash = "aa1f11c5c82e46adec78ef656dae8edb9aab6c18bb761697d9e89ca0f66f4889"
 metafile = true
 
 [[files]]
+file = "mods/repackaged.pw.toml"
+hash = "55a6245d3b767ba1d0120f83c00a6e1732bdcd166eb4b943e44418980760f090"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
 metafile = true
@@ -583,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
 metafile = true
 
 [[files]]
@@ -609,6 +644,10 @@ metafile = true
 file = "mods/sensible-stackables.pw.toml"
 hash = "d68120fbb2e90e41b398c8168b87a8397fbe4b65e6771240f5ae2ef31ee2d5a6"
 metafile = true
+
+[[files]]
+file = "mods/shorkie-2101.1.0.2.jar"
+hash = "48fb04b2a0ff9164f6d4b4378256893ba59b92462aee87bc151c8db6e1a8d346"
 
 [[files]]
 file = "mods/simple-clouds.pw.toml"
@@ -645,6 +684,16 @@ hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
+metafile = true
+
+[[files]]
+file = "mods/starcatcher.pw.toml"
+hash = "4e5d0aaa6f9dee74886f345cf81ece00adbf8a4598644b99f73ca15537c2a8ac"
+metafile = true
+
+[[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
@@ -677,6 +726,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "8197c6c0e390369d3e5374692dfa8d2ced62d033538df534ab9d6d08ab5eb82c"
+metafile = true
+
+[[files]]
+file = "mods/unlocked-void-sea.pw.toml"
+hash = "96e3d6d7a2d3ca371f87d66fe5ea2ef4d42d6149924c3e810e77e92fb41895b2"
 metafile = true
 
 [[files]]
@@ -723,7 +777,3 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
-
-[[files]]
-file = "readme.md"
-hash = "562e922f8f5bf45691a6ebb51f1ab85542a295cad90153013c9339b23b347435"
