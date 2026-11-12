@@ -161,6 +161,11 @@ hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "2aa588c0760e81c40fae4df29e14643ddb19d40474bf177206a8f687e70b953e"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
 hash = "0c1c5cfd9c21bd85fc2b0bb17c2bc607c88c0641da3ade9cc98140263f361dee"
+metafile = true
+
+[[files]]
+file = "mods/dye-depot-aeroworks.pw.toml"
+hash = "30d31cca2f826d5124d947ad60ee8c4593a66eefbb85dfc9bfd27ca9029ebf68"
 metafile = true
 
 [[files]]

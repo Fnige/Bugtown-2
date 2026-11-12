@@ -1,0 +1,13 @@
+name = "Dye Depot Aeroworks"
+filename = "dye_depot_aeroworks-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JnilI0bT/versions/tbAbHhiV/dye_depot_aeroworks-1.0.0.jar"
+hash-format = "sha512"
+hash = "d8c36aa1f20a8baef0d311082dfd53896f5e61f28d3c9d859285cd5f355bf01e55d852a4674e418d9519c228e50e0f547893a7bf6206d50d10edbaf0d922b9f6"
+
+[update]
+[update.modrinth]
+mod-id = "JnilI0bT"
+version = "tbAbHhiV"
