@@ -1,6 +1,6 @@
 name = "Unlocked Void Sea  - Aeronautics Addon"
 filename = "unlockedvoidsea-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vsv72IJr/versions/tDH37oNY/unlockedvoidsea-1.1.0.jar"

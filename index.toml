@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/civillis-technology-compatibility.pw.toml"
-hash = "8036a00c6626e54bf69ab9a2e8c6f2a4ad9323bd0a679983b41318ab042a53d7"
+hash = "3477940f8b819200e0061e66db497c0231a1f74b177fb6c9b1cd182bc31835e8"
 metafile = true
 
 [[files]]
@@ -471,6 +471,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
 metafile = true
@@ -571,6 +576,11 @@ hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
+metafile = true
+
+[[files]]
 file = "mods/nightlights.pw.toml"
 hash = "9b56c2c17c00dd51fffcbc5e5a59d2c325ed656e768365ae1a36f7692ffcd01e"
 metafile = true
@@ -662,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "87708c5cf041f2c7eede5dc1a5ee0dd517a13c0c7e8c40c359669a5ffabef7db"
+hash = "9c0d37bfbfdda77af1946da1d80aa48e7dfea9611c43d5c81c70676b1d854af6"
 metafile = true
 
 [[files]]
@@ -775,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/unlocked-void-sea.pw.toml"
-hash = "96e3d6d7a2d3ca371f87d66fe5ea2ef4d42d6149924c3e810e77e92fb41895b2"
+hash = "854531076f300ba3e69dfcae29180bf6eb2df8f5a0fb736c289b2164c4eff308"
 metafile = true
 
 [[files]]
@@ -820,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "902c397d5dfc69b497681ba71aa5b8a8a85479b1ccf25157867e4803c16dd65b"
+hash = "03d964cba45be30fbcbef52f89f3953185737f55c8934d12e199b67194c2b368"
 metafile = true
 
 [[files]]

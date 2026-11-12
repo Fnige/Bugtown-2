@@ -1,6 +1,6 @@
 name = "Civillis Technology Compatibility"
 filename = "civilis_technology-1.0.3-universal-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TZBlTKuM/versions/lToFxBqQ/civilis_technology-1.0.3-universal-1.21.1.jar"
