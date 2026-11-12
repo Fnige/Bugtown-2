@@ -571,6 +571,11 @@ hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
 metafile = true
 
 [[files]]
+file = "mods/mod-erate-loading-screen-neo.pw.toml"
+hash = "b8a36a1cb2d11409d5d8d1e8b2d2fb0c4f081a10087b881337e385e080de6083"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
