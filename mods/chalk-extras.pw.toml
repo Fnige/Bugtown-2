@@ -1,0 +1,13 @@
+name = "Chalk: Extras"
+filename = "chalk-extras-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UGTfdvlM/versions/PcZHaXmj/chalk-extras-1.1.0.jar"
+hash-format = "sha512"
+hash = "4dc5da8d8cd5e03ddcf386f4593a6528cddf9e3a80c6fa9c951f9c45cd3c2c4b6931282288022cf50b76d395dfa17a9dc9ec3875392f46945e39d533ca948c7b"
+
+[update]
+[update.modrinth]
+mod-id = "UGTfdvlM"
+version = "PcZHaXmj"

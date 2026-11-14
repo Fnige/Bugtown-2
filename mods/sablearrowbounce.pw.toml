@@ -1,0 +1,13 @@
+name = "SableArrowBounce"
+filename = "sableprojectilebouncer-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zAbYYyvT/versions/WoSgAShO/sableprojectilebouncer-1.0.0.jar"
+hash-format = "sha512"
+hash = "883221097f4c037d72ce53c2caff770ad7e063ce89c3ab59ceab6790bc1fd653e26e59ffbdaba4d53a687596972cab191f1f28bb5a26228e28463f6fc1d8bf4a"
+
+[update]
+[update.modrinth]
+mod-id = "zAbYYyvT"
+version = "WoSgAShO"

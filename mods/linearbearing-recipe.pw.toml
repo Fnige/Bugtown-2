@@ -1,0 +1,13 @@
+name = "LinearBearing Recipe"
+filename = "linearbearing_recipe-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kq3ltDcJ/versions/mdl2whbw/linearbearing_recipe-1.0.0.jar"
+hash-format = "sha512"
+hash = "13a6c91be33e5ead7e2c9ef33baecfdf89adf940a95c075df3e3bd3f2513ae97503a359ca087d08d5ef7d0a7532052e1808c86d4ec44ed4b8e43a88e04455364"
+
+[update]
+[update.modrinth]
+mod-id = "Kq3ltDcJ"
+version = "mdl2whbw"

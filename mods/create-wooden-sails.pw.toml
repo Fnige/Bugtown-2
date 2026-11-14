@@ -1,0 +1,13 @@
+name = "Create: Wooden Sails"
+filename = "Create Wooden Sails-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ouQylg9k/versions/ywXhiJmW/Create%20Wooden%20Sails-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "2454c0c2504ed363c7f3733b7dd0627325a316a6a63df4210a251edde3caa8923feef104ef0f459b37434139698a2dd25cb170eb23cee05f2c10eaffecc18d72"
+
+[update]
+[update.modrinth]
+mod-id = "ouQylg9k"
+version = "ywXhiJmW"

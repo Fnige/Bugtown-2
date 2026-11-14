@@ -1,0 +1,13 @@
+name = "Warvior CC:Sable wired fix"
+filename = "warvior_cc_sable_wired_fix-0.8.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QN3qI4QK/versions/5hZa314F/warvior_cc_sable_wired_fix-0.8.0.jar"
+hash-format = "sha512"
+hash = "bff2bb12110232a72da0d83559fdd0d7c02e3287fcf6bd8a0e0cc5e08c5d5cb53a7604a34259c7ebffecce7670e7c4201bf13fbb9a412da3e03a831494a7458d"
+
+[update]
+[update.modrinth]
+mod-id = "QN3qI4QK"
+version = "5hZa314F"

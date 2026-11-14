@@ -1,0 +1,13 @@
+name = "Soaring Phantoms"
+filename = "soaring_phantoms-neoforge-1.2.9+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4Rp6J8P/versions/NBESbJqi/soaring_phantoms-neoforge-1.2.9%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2fb654b91a8c19da509a82ace59cc83de4f8b771f3edf30c99baa4674e32841b1467cbab56375c3b53cfdc0a5847a9d14197fe73d658da79f57c2f345061dc51"
+
+[update]
+[update.modrinth]
+mod-id = "d4Rp6J8P"
+version = "NBESbJqi"
