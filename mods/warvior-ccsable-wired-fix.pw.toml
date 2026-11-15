@@ -1,6 +1,6 @@
 name = "Warvior CC:Sable wired fix"
 filename = "warvior_cc_sable_wired_fix-0.8.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QN3qI4QK/versions/5hZa314F/warvior_cc_sable_wired_fix-0.8.0.jar"
