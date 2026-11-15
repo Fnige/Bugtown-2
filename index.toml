@@ -86,6 +86,11 @@ hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
+file = "mods/blocks-abound.pw.toml"
+hash = "e6862295830931981dcc8e447bd4301a9eff82179335ec598f359186ca07295c"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "932b1f0df544525e277b4f75fc47dc9c01d0481d773f026082f1cae5c4afdb69"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -243,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/create-drill-levitite.pw.toml"
 hash = "08b447196d15f0f8fcc9401724fa3fe158c49f5568b7f479964e1018e6127187"
+metafile = true
+
+[[files]]
+file = "mods/create-electro-energetics-x-dye-depot.pw.toml"
+hash = "6eabdf1ad6c05a0ba591055b4d34df2cf831c022a77f91216a7ca3856691ca80"
+metafile = true
+
+[[files]]
+file = "mods/create-electro-energetics.pw.toml"
+hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
 metafile = true
 
 [[files]]
@@ -874,6 +894,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "95403fa5c63be51713b744c98f1907b68b2ac0ce2d70e8fb28e9c86c4c044985"
+metafile = true
+
+[[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "4e5d0aaa6f9dee74886f345cf81ece00adbf8a4598644b99f73ca15537c2a8ac"
 metafile = true
@@ -901,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "cbcebba2792a928da5e46cd5fa9d4553a5ab17b9f7fa6424e63f4dea1182d536"
+metafile = true
+
+[[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "34e8d5d17a485e43e5a89bccad58c267dd62755bf43901c33bccf15ae4ea8723"
 metafile = true
 
 [[files]]
