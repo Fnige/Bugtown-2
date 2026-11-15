@@ -1,13 +1,13 @@
 name = "Aperture Innovations - Portal Gun"
-filename = "aperture_innovations-neoforge-2.1.1.jar"
+filename = "aperture_innovations-neoforge-3.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GsmkmPdY/versions/izlbCbqe/aperture_innovations-neoforge-2.1.1.jar"
+url = "https://cdn.modrinth.com/data/GsmkmPdY/versions/Z3c17Aan/aperture_innovations-neoforge-3.0.0.jar"
 hash-format = "sha512"
-hash = "6ede7a3571b80454d4dd7800ffd8fe28ee6deb9e642879dbd87fbaa263a30cae7bbda888666f9b821c06bc6ea8ab2298991bb1ae52b95ba250132c8f9d5a127d"
+hash = "628545425c11bc50b134c3faf7ccf34350fe4cca4c541cffeed7ba0043d60a664b749813283f7ef5ed01c05232a9d67cad0eb37f2a74e4d5cfad8e77b9736fec"
 
 [update]
 [update.modrinth]
 mod-id = "GsmkmPdY"
-version = "izlbCbqe"
+version = "Z3c17Aan"
