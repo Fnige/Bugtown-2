@@ -101,6 +101,11 @@ hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
+file = "mods/bits-n-tracks-ce.pw.toml"
+hash = "c7916294254f19658955c2781468e89df4266e7c5267d1f5b5f11202937c10a1"
+metafile = true
+
+[[files]]
 file = "mods/blocks-abound.pw.toml"
 hash = "e6862295830931981dcc8e447bd4301a9eff82179335ec598f359186ca07295c"
 metafile = true
@@ -241,8 +246,18 @@ hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
+file = "mods/create-bigger-vaults.pw.toml"
+hash = "f10eec538ad690a0685dde279cc02e00e9036c10230cfa64835c8b3dec30f8be"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "2aa588c0760e81c40fae4df29e14643ddb19d40474bf177206a8f687e70b953e"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
 
 [[files]]
@@ -301,6 +316,11 @@ hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
 
 [[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
+metafile = true
+
+[[files]]
 file = "mods/create-lift-n-load.pw.toml"
 hash = "f3349c7034d872a1fbf02dbcb6d8c0f343e45e5647b7c3d4f2eda2a58edf968c"
 metafile = true
@@ -328,6 +348,16 @@ metafile = true
 [[files]]
 file = "mods/create-picky-wheels.pw.toml"
 hash = "d95258c521382f5079f2627895345e2bfe5a9eec2253f216d31e0ffb565a2fbb"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
+file = "mods/create-rail-grinding.pw.toml"
+hash = "96cb3a63a8cea76798153bfeeedab94d487210040a07b08c2df0e401ea85c137"
 metafile = true
 
 [[files]]
