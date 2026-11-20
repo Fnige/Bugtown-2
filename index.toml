@@ -26,6 +26,11 @@ hash = "d6c2790cc195eb3620ef71248c0f30b747eb654b24e55ada7eb35af531594c5e"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "846290a7a2b0af86414001d097ddc694b58266f8e9f57e3d381fda3e64e81212"
+metafile = true
+
+[[files]]
 file = "mods/aperture-innovations.pw.toml"
 hash = "066ae89e394b2169737a0e39311e3d1ce3f5f7aca405f96648197fc598cad53e"
 metafile = true
@@ -241,6 +246,11 @@ hash = "b6b702e432d0a9089ab5ccbf0c83951f6afe1315822c668659b8b04e4f3b99f7"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "99755970a2ad9ed8efce13e5f275adb94ae535437e973f011671177634ac9699"
+metafile = true
+
+[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "1037ac6a92d34495262aaae74054f8530cd953beaef6b36738ff19b3cca08c38"
 metafile = true
@@ -251,8 +261,23 @@ hash = "50f0fe22bec82ed6336a259931394271a1ebb71bb77e682ee233d96134305ccd"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/countereds-terrain-slabs.pw.toml"
+hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
+metafile = true
+
+[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-burner-fuel.pw.toml"
+hash = "90f8323031d6bbb7f764562c68783014a7dfd177b0f7a8c6a9c512f9d74516b6"
 metafile = true
 
 [[files]]
@@ -286,6 +311,11 @@ hash = "2aa588c0760e81c40fae4df29e14643ddb19d40474bf177206a8f687e70b953e"
 metafile = true
 
 [[files]]
+file = "mods/create-camber.pw.toml"
+hash = "148f3e43c3fff092fd2732b99d912a605a63d4b7d9441a7f15786abf094bc7f5"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
@@ -293,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
+metafile = true
+
+[[files]]
+file = "mods/create-copycat-casing.pw.toml"
+hash = "24331e05bfc16402217342f2e342f0ff98c92a08f95f671012772db48fe877c6"
 metafile = true
 
 [[files]]
@@ -393,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c0cb2bd911bed59edcc68e7c1e8e044acb51e791ff0d5f376138097def308cb6"
+metafile = true
+
+[[files]]
+file = "mods/create-rolling-tones.pw.toml"
+hash = "ddef0dcf8688392f2466df8c2def631e31728ad178009431264958195c91aa14"
 metafile = true
 
 [[files]]
@@ -1049,6 +1089,11 @@ hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
 
 [[files]]
+file = "mods/snassets-library-general.pw.toml"
+hash = "31c2b517d5d0ed243395656973d45682244126f33d6c5843956d1cd267bbdb5f"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "87bbeb14cb18cf4f9a721c420da8dd39b1bae09f68f624d4276d8f1fdc4115e1"
 metafile = true
@@ -1134,6 +1179,16 @@ hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]
+file = "mods/tradeworks.pw.toml"
+hash = "be1ac9fe5e8e36cf4f51f859fb31eb6c017d8031d09f5b15e922c8ee6691febd"
+metafile = true
+
+[[files]]
+file = "mods/transmog.pw.toml"
+hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
+metafile = true
+
+[[files]]
 file = "mods/tree-physics.pw.toml"
 hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
 metafile = true
@@ -1186,6 +1241,21 @@ metafile = true
 [[files]]
 file = "mods/warvior-ccsable-wired-fix.pw.toml"
 hash = "c6f37d0b34796d9b8a580f5bde5a0aa808618024620ddabceec60485eba79a75"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "9846a53a5ee9a09bf9893d331571b14bbc31af97912a7b19f4461563e9d82ab1"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "fc564964934fe492145069cd3f121b18a5d196bcdb31a835133b0562e3e41d0e"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "39c8018bf31fe764a68adddde89e556f5226ef116345a6f69ff3b79218ea7e6c"
 metafile = true
 
 [[files]]
