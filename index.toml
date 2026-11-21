@@ -333,6 +333,11 @@ hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
 metafile = true
 
 [[files]]
+file = "mods/create-access-denied.pw.toml"
+hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
+metafile = true
+
+[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "ba904d5c6a361b648fa7df9ecb8133ef6d1cdc596edb0be128b5562ebbdc14ae"
 metafile = true
@@ -350,6 +355,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "d66f3ca71587c7ab8076f4a0154b0d3aa2f043c29c6373f2b8b2e5d6c3c3e91f"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-portable-engine-liquid-fuel.pw.toml"
+hash = "aa69dc9a1d57d4c3c4f83627017b5a741c301f42f83f25a47bc420e869f9d931"
 metafile = true
 
 [[files]]
@@ -463,6 +473,11 @@ hash = "b4bda0748beebf347b7260926e0cf7d47416c4844b89e8ea64f4654e2d37f437"
 metafile = true
 
 [[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "810e114e3f827cb7f78a0c2cdb9087d50bb1393ebb20682daf554747e141322e"
+metafile = true
+
+[[files]]
 file = "mods/create-low-heated.pw.toml"
 hash = "2208707e4fe24cda8571cfccfcda84a59193c4ea246a038ed341c66f208be622"
 metafile = true
@@ -480,11 +495,6 @@ metafile = true
 [[files]]
 file = "mods/create-offroad-narrow-roads.pw.toml"
 hash = "e28efde8137e92234359264d8ab9aa7edc8367bed3a943a55c8731ad8a7d74b1"
-metafile = true
-
-[[files]]
-file = "mods/create-picky-wheels.pw.toml"
-hash = "d95258c521382f5079f2627895345e2bfe5a9eec2253f216d31e0ffb565a2fbb"
 metafile = true
 
 [[files]]
