@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Stabilized"
+filename = "stabilized-1.0.3b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vRmgUJhP/versions/QG4l5Fcw/stabilized-1.0.3b.jar"
+hash-format = "sha512"
+hash = "80f9d93dc219f834f8b944d5f7ff7096cc452fd4ac06412bb71614bc525966b961cb3d843c0e04561110df50e713be992d84f5b658560aeb5c9c6b6a19202b6c"
+
+[update]
+[update.modrinth]
+mod-id = "vRmgUJhP"
+version = "QG4l5Fcw"
