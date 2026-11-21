@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openoader/data/figuracombat_datapack.zip"
+file = "config/openloader/data/figuracombat_datapack.zip"
 hash = "4345cadae4eadfa0b1a7c549808241dd20a2eb149fa8aefbabc23fe285756c2f"
 
 [[files]]
