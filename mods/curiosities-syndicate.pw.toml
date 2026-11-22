@@ -1,0 +1,13 @@
+name = "Curiosities!"
+filename = "curiosities-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BDSRvt7l/versions/NqkQYE0o/curiosities-0.2.1.jar"
+hash-format = "sha512"
+hash = "536eac6d0394e4b571fa436c51ee0c20d26185c5b0aad2b91e6bf39d23f17c331a451ece7a47d3f93c43966ab4fddc7b3cc6ccc441a56c0d4873eb56a803b4a3"
+
+[update]
+[update.modrinth]
+mod-id = "BDSRvt7l"
+version = "NqkQYE0o"
