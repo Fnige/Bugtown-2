@@ -143,11 +143,6 @@ hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
-metafile = true
-
-[[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
@@ -494,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-liquid-fuel.pw.toml"
-hash = "810e114e3f827cb7f78a0c2cdb9087d50bb1393ebb20682daf554747e141322e"
+hash = "69fc8e5bb97d5ed685c2344572caa78498beb58cda9ab4735076426f0b555ea5"
 metafile = true
 
 [[files]]
@@ -659,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "d0658a51300df67c267ee49f2a350df5cd68561458f19401f8161731416c7eb7"
+hash = "d3c6f05de0c03ad9782c7eeaca201d687a4ea8abeb2d3bff852786e7b00cad13"
 metafile = true
 
 [[files]]
@@ -1069,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
-hash = "a0ae26c69c7ef7051c6dc01e331794899443a9ce9a62532e2d1c403523138311"
+hash = "33af87c230015b6866daff4fb1304e9a5915fe7f29379e11ddaa19dd6b9f2745"
 metafile = true
 
 [[files]]
