@@ -343,6 +343,10 @@ hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
 metafile = true
 
 [[files]]
+file = "mods/create-1.21.1-6.0.10 - 208 fix.jar"
+hash = "32076a6efb568cb80bd56a34665bf6b065e06bf71c47e3afe08baf6b185dabb5"
+
+[[files]]
 file = "mods/create-access-denied.pw.toml"
 hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
 metafile = true
@@ -468,6 +472,11 @@ hash = "219c8225dfb1dd6096c1324993545041be6f6afabecf069f5074b75e0394c33b"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "ff95732644994b3b955de5b0c927b3caccce9d22c19e53b95da96b887cff2525"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
@@ -570,11 +579,6 @@ metafile = true
 [[files]]
 file = "mods/create-wooden-sails.pw.toml"
 hash = "01b6757ad7dbf1b9942a444ef876b38c1c4184546f92223a7498d3cdd435ce72"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -816,6 +820,10 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
+
+[[files]]
+file = "mods/figura-aero-addon-1.0.0.jar"
+hash = "3759e82a36c30408f4778cbab621382b39858c1917966a1e8dd767fd2f8c3e4f"
 
 [[files]]
 file = "mods/figura-sillyplugin.pw.toml"
@@ -1100,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
+file = "mods/packagerspsic.pw.toml"
+hash = "b7434a2da8f6c68e3e77e7288d19d979dbd97cec43e827e86be2270b70a7741e"
 metafile = true
 
 [[files]]
