@@ -1086,6 +1086,11 @@ hash = "f1fecbcbee6806a14efb3bd38ccf10166b48004967fbe72b6c31224e5e9fc5ea"
 metafile = true
 
 [[files]]
+file = "mods/misctweaks.pw.toml"
+hash = "86c10287e9c57eda831da019e47d9eed7266f1df77ce953a865aeb24daf2817f"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "616a78e83977651454abca863e6ec9766ea4ce8d559269cd4a7d9aa8bf0223aa"
 metafile = true
@@ -1251,6 +1256,11 @@ hash = "9ae80618e820d9b9e9a9ef28207dfe9ade5a1e3793fc365856b0fdc5aa6a2273"
 metafile = true
 
 [[files]]
+file = "mods/recreative.pw.toml"
+hash = "4ccf7370fb8f5aade03494fa4d624afa5101dcbe8fbfadccde7017b93b304fcc"
+metafile = true
+
+[[files]]
 file = "mods/reliable-backpacks.pw.toml"
 hash = "a25d2818d59ab92c92512efba68d6891eea663c15d4d19c82d79981a3150e5ff"
 metafile = true
@@ -1406,6 +1416,11 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6df23b8cdee33784a94cbdf00511102213d5bd041bfdaebb17cadf5539df4d19"
 metafile = true
 
 [[files]]
