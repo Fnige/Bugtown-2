@@ -133,6 +133,11 @@ hash = "ad964c7bc216dc509aba7cc617456a340e7746565e79d0cd4fab8a4d31ec95ed"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
+metafile = true
+
+[[files]]
 file = "mods/barehanded.pw.toml"
 hash = "a1d72d6f88c773c31e30080ced177ce5ccd89a57f3a8e34185b6dc38d902a03a"
 metafile = true
@@ -145,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "cc2e6dda94a7a6f5487843cafe569d8044bf9482cbf03f062cf4595f1fb05281"
 metafile = true
 
 [[files]]
@@ -195,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/brick-and-mortar.pw.toml"
 hash = "52312c25493f086845ea281040461c24f677fc8f1b89dfb3c34bc2b938c0101e"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
@@ -313,6 +328,11 @@ hash = "029edd5d6db45c4079b13af4700afe28d8dd3ef0b9b4192a596038a1adb4e702"
 metafile = true
 
 [[files]]
+file = "mods/copycats-sable-light-fix.pw.toml"
+hash = "46a437a93a969654caf004d19c3517d87f1bf8c3104546aa3331a1bfff054b04"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "b6b702e432d0a9089ab5ccbf0c83951f6afe1315822c668659b8b04e4f3b99f7"
 metafile = true
@@ -340,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/countereds-terrain-slabs.pw.toml"
 hash = "ac459cbd85b4ac9c5db308b2cd0fc57c1e98b22aff0af60a166b2f51abce9bce"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
 metafile = true
 
 [[files]]
@@ -792,6 +817,11 @@ hash = "4c05f6744be64d47634fbd906b1502ec6ba7ce9becf473cc8db882922716b620"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "00d50bf8d60a909b2b33e163e959c36bf18ba5b98e1c4db65fa75987eae66694"
+metafile = true
+
+[[files]]
 file = "mods/fairylights.pw.toml"
 hash = "a545e104e9c54132fe064de7e97f9ffcd41787f2474e0486d523448d2f14b0e3"
 metafile = true
@@ -906,6 +936,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "1f7e198ba08cd6df7319a5b8ecb96302a034ce59fa36de5befc4e6aed33223b9"
+metafile = true
+
+[[files]]
 file = "mods/item-obliterator.pw.toml"
 hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
@@ -918,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "24d27cb3caf022e154386e473bcca80e15d6ce18fa8e1367b6f9b4dc1594b446"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "673bc79f4d42c7de3343a8e2933a3fbd355ba34e8a7ca06ffdae659bd57a8231"
 metafile = true
 
 [[files]]
@@ -1001,6 +1041,11 @@ hash = "1bdd094dd87876c1dddad59402c13294a3b9efd2362773dcec0b012682378cd9"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
+metafile = true
+
+[[files]]
 file = "mods/linear-bearing.pw.toml"
 hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
 metafile = true
@@ -1051,6 +1096,11 @@ hash = "b8a36a1cb2d11409d5d8d1e8b2d2fb0c4f081a10087b881337e385e080de6083"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
@@ -1058,6 +1108,16 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b14b3d7f88512f23bccca8e2f133e52e84307679b6eba4e818ce13e8f87e503d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/natural-waters.pw.toml"
+hash = "1157507323276831aedd133e382bd5c1498568afb4b5dbf0956b438d678787e5"
 metafile = true
 
 [[files]]
@@ -1106,6 +1166,11 @@ hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
@@ -1128,6 +1193,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "650330109d21831664d2ff597c7a90200eda69a1efaca4e9b0b6b6297ac3c364"
 metafile = true
 
 [[files]]
@@ -1241,6 +1311,16 @@ hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "dba3f7968ab168ac443542ad28e3d4df82cc941a045eadf43b18a82207d82998"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -1253,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/shorkie-2101.1.0.2.jar"
 hash = "48fb04b2a0ff9164f6d4b4378256893ba59b92462aee87bc151c8db6e1a8d346"
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
+metafile = true
 
 [[files]]
 file = "mods/simple-clouds.pw.toml"
@@ -1339,6 +1424,11 @@ hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
 metafile = true
 
 [[files]]
+file = "mods/sorted-enchantments.pw.toml"
+hash = "77e7596ceaf31a688ac602aa1cbc0feec5d56ecb15dd6f10993be1cc261ec4fa"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -1356,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/starcatchers-delight.pw.toml"
 hash = "efc4b14f73dfbb271c11822faca511777fab8eacb66e644788e190ae6c23c174"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "bfbae645c9ab19d3e3b5ef5bc0929774462da167f76d2cbcda117b80f9dc55e3"
 metafile = true
 
 [[files]]

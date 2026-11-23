@@ -1,0 +1,13 @@
+name = "Copycats Sable Light Fix"
+filename = "copycats_sable_light_fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02021ae897f2442de9b54e1f4a2f69a3bd186897"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9473960
+project-id = 1787103
