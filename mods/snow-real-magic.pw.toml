@@ -1,13 +1,13 @@
 name = "Snow! Real Magic! ⛄"
-filename = "SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+filename = "SnowRealMagic-1.21.1-NeoForge-12.2.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iJNje1E8/versions/gLnAisfF/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar"
+url = "https://cdn.modrinth.com/data/iJNje1E8/versions/zzSKIpOy/SnowRealMagic-1.21.1-NeoForge-12.2.8.jar"
 hash-format = "sha512"
-hash = "236a6c780a9098639be1574d0b68a2362e0a1dd244dfab78e250e56e0d61df1634b23dbb85a9eeed109c95c750dbfc5a842bbe9ce30399c742a5e091e3d7f3c8"
+hash = "a32cedaf09a9a952a8114fd63766105dd7ee510ea263c6083fbf147bb35da46b84b88827355a2719a358c6728382e75744625078698e826c3ac3389cb100d611"
 
 [update]
 [update.modrinth]
 mod-id = "iJNje1E8"
-version = "gLnAisfF"
+version = "zzSKIpOy"

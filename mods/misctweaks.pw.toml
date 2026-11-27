@@ -1,13 +1,13 @@
 name = "MiscTweaks"
-filename = "misctweaks-neoforge-1.5.0+1.21.1.jar"
+filename = "misctweaks-neoforge-1.5.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/WVQ66hpQ/misctweaks-neoforge-1.5.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9sMkzzYU/versions/ft8JWN9m/misctweaks-neoforge-1.5.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e9883338dbb488a071b9e5bf2c64575050a35caa0651743c338ef576326442b812d35cf8bf79a76d1d660a77b5f08255d11e2075da4fd7acb8a6caf268fd6128"
+hash = "66caee125de692fce007c3646f9603f5fd706b2babdd8c755ab86e9ac0b6db74258ea11853ff08eb0f9054cb809d15ffe3f1cae9d522e539c34e22ac39db04e6"
 
 [update]
 [update.modrinth]
 mod-id = "9sMkzzYU"
-version = "WVQ66hpQ"
+version = "ft8JWN9m"

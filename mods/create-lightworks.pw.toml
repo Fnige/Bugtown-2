@@ -1,13 +1,13 @@
 name = "Create: Lightworks"
-filename = "createlightworks-neoforge-1.21.1-1.0.1.jar"
+filename = "createlightworks-neoforge-1.21.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e5fb6646dd4ed2293414017bba0f2d128f5c2300"
+hash = "17f5c2e9ed85bdddfa1eb23e6f97c14d12c56cbf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9556713
+file-id = 9830455
 project-id = 1785136
