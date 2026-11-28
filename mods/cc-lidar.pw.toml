@@ -1,0 +1,13 @@
+name = "CC: LiDAR"
+filename = "cclidar-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aj1d8xSa/versions/ElA8prGm/cclidar-1.0.1.jar"
+hash-format = "sha512"
+hash = "3af1acb1707288bd957750d29213fdb860fc8310ed9975b5e8abbb68cfc14a53b71b541bdf04da33e1cdb3be8f19f0604671b4d5d232868a6b24f6391db25139"
+
+[update]
+[update.modrinth]
+mod-id = "aj1d8xSa"
+version = "ElA8prGm"

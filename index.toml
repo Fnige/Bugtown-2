@@ -55,6 +55,11 @@ hash = "73576662287c48ef64866be14445a6e8b52829a1da6e65800d0917f813206220"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-dyeable-components.pw.toml"
+hash = "3f866cfbaad92b14b25f4b132310c895d83e364bcd2aa2b0375796be42f99480"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics_atmos-1.0.0.jar"
 hash = "2c6208c294bb15020fcbc16527682acc8ac0767722114187232fd3362b3d744c"
 
@@ -65,6 +70,11 @@ hash = "1daacba689dc8024a32c139e3b360eaf93c552154f242567009f253674153955"
 [[files]]
 file = "mods/all-with-you.pw.toml"
 hash = "704a90931ae10b0c96f36dd7e6259ae97e2c1fcda1182ae93ba104990467d08f"
+metafile = true
+
+[[files]]
+file = "mods/allurement.pw.toml"
+hash = "3cf42a50b82f08f77419d55188b2d0e8916792eca0021dc5a34a5bc8714652c8"
 metafile = true
 
 [[files]]
@@ -218,6 +228,11 @@ hash = "97c1ad521ac48aaf6c07a54339dc94ba400df670ec5d98f3d81d14bd728586e4"
 metafile = true
 
 [[files]]
+file = "mods/cc-lidar.pw.toml"
+hash = "065db0b3e1c5a53f91e0e66e3e5c4f5838dff45612d7e62dc02604d13e6f9777"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "bef7f46e38b038b0ee236735061002f26eebc05da8ffabd14819cd9c31b312ec"
 metafile = true
@@ -368,6 +383,11 @@ hash = "b63999aa63a273098f42e22d8d5018c8617b8e2babdffc752d9aad3eefaaa76d"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
+metafile = true
+
+[[files]]
 file = "mods/create-1.21.1-6.0.10 - 208 fix.jar"
 hash = "32076a6efb568cb80bd56a34665bf6b065e06bf71c47e3afe08baf6b185dabb5"
 
@@ -424,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/create-bitterballen.pw.toml"
 hash = "9f71440ec3bd67e75b3e1dfdb13514b7368493352f14ee9032991622ab40ee75"
+metafile = true
+
+[[files]]
+file = "mods/create-blueprinted.pw.toml"
+hash = "8672b89ef92a800bbee11ab6b8c6d6b02f08f3995f3785f51085d4c4d03d51d6"
 metafile = true
 
 [[files]]
@@ -532,6 +557,11 @@ hash = "2208707e4fe24cda8571cfccfcda84a59193c4ea246a038ed341c66f208be622"
 metafile = true
 
 [[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "8eaade03814bd5cd19870ff17b0a5e63a518ec6aada7ec7e5fa9b40c7850ce7a"
+metafile = true
+
+[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
 metafile = true
@@ -544,6 +574,16 @@ metafile = true
 [[files]]
 file = "mods/create-offroad-narrow-roads.pw.toml"
 hash = "736df8f52c3fa0e0b734ee7f446622d581ac0b34ce34943de671b94bac436f26"
+metafile = true
+
+[[files]]
+file = "mods/create-package-tooltip.pw.toml"
+hash = "3c8d6b3b6a8e1f62cb1976879d41b0151e006fb90eb7a897edd8874ca8cb52f6"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
@@ -847,6 +887,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/field-guide.pw.toml"
+hash = "6bb4baf56e02a2a951d60799aa75696a64b901854431f2016d831dd64f8f86b7"
+metafile = true
+
+[[files]]
 file = "mods/figura-aero-addon-1.0.0.jar"
 hash = "3759e82a36c30408f4778cbab621382b39858c1917966a1e8dd767fd2f8c3e4f"
 
@@ -918,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "f749b285b2ef2b2fe470c6fdbce03bc46970101f61dac6560af02b9cc1619171"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "53bf2dc4b6a32f8feb4aa56b53f16ef01892a25b0acaf992366f178424d3b9e8"
 metafile = true
 
 [[files]]
@@ -1071,6 +1121,11 @@ hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
+file = "mods/luckys-blocky-siege.pw.toml"
+hash = "6e1a0b9d6cac23645bb11065f59b79803b1295d1b1a14e790db3f2a361ef776b"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
 metafile = true
@@ -1078,6 +1133,11 @@ metafile = true
 [[files]]
 file = "mods/mannequins.pw.toml"
 hash = "0c53ddaaa2d828c91ea4f5fe920bf3935b48b4ee2507f9145225775a64a88669"
+metafile = true
+
+[[files]]
+file = "mods/maxwell-the-placeable-cat.pw.toml"
+hash = "2a0e85e295ed5f6cb73202b342dbcf3909978fa520a54f417f3b44635b71cf81"
 metafile = true
 
 [[files]]
@@ -1333,6 +1393,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/selectivebounds.pw.toml"
+hash = "6ced9eefff01a11e6e203ed72ad3c3b6601fffc92dd64d7607ff407409051f09"
 metafile = true
 
 [[files]]

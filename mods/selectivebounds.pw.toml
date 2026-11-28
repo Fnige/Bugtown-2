@@ -1,0 +1,13 @@
+name = "SelectiveBounds"
+filename = "selectivebounds-neoforge-1.21.1-0.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rnTvRqwF/versions/O38x2UUl/selectivebounds-neoforge-1.21.1-0.0.5.jar"
+hash-format = "sha512"
+hash = "010f575e75727751e198c57bed8f3673c5620e6e69020d66b31a5354ebb700137642607ba4802fcf1a21f1975b84dad265ad2cb91d0184444f2540d9d8af1e65"
+
+[update]
+[update.modrinth]
+mod-id = "rnTvRqwF"
+version = "O38x2UUl"
