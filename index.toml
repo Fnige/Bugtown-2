@@ -55,11 +55,6 @@ hash = "73576662287c48ef64866be14445a6e8b52829a1da6e65800d0917f813206220"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-dyeable-components.pw.toml"
-hash = "3f866cfbaad92b14b25f4b132310c895d83e364bcd2aa2b0375796be42f99480"
-metafile = true
-
-[[files]]
 file = "mods/aeronautics_atmos-1.0.0.jar"
 hash = "2c6208c294bb15020fcbc16527682acc8ac0767722114187232fd3362b3d744c"
 
